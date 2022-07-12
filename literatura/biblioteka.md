@@ -9,3 +9,6 @@ Bernard Sullivan, The Austro-Hungarian Fortresses of Montenegro - A Hiker's Guid
 
 Владика Николај Велимировић, Успомене из Боке, Књижара Со.
 
+Nikola Malović - Lutajući Bokelj, Laguna  
+
+Кап. Владо Ивелић, Поморско живот, На једрењацима и паробродима, Књижара Со.
