@@ -4,6 +4,7 @@ state of the map 2025
 https://www.youtube.com/@StateoftheMapEurope/
 fosdem 2026, geospatial i ostali trackovi
 https://fosdem.org/2026/schedule/track/geospatial/
+https://fosdem.org/2026/schedule/event/X7FTTA-millipede_and_centipede-rtk_centimeter-level_gnss_positioning_for_the_rest_of_us/
 
 # #watch #sotmeurope2025 2025: Many paths lead to the summit - Complex hiking and cycling routes in OpenStreetMap
 https://www.youtube.com/watch?v=p7sb43v-Id4
