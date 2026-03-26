@@ -26,12 +26,21 @@ https://www.youtube.com/watch?v=1g8memKNVBQ
 # #watch #sotmeurope2025 2025: Minutely vector tiles deep dive
 https://www.youtube.com/watch?v=r5zlVkhkbFQ&t=1s
 
-
 # #watch #sotmeurope2025 2025: Lightning Talks 3
 https://www.youtube.com/watch?v=Nhzl0-SlQRw
+0:00 Core software facilitator roadmap - Adam Hoyle
+4:25 Woodlands are not what you think! - Mike N
+9:04 Humanitarian Isolation Index for air access - Matthew Sampias
+13:33 Mapping Trees - Jerry Clough (SK53)
+19:47 Every Door for obessed mappers - Ilja Zverek
 
 # #watch #sotmeurope2025 2025: Lightning Talks 4
 https://www.youtube.com/watch?v=JAtNqSFr58U
+0:00 Panoramax instance for Europe? - Lorenzo
+3:13 Is the OSM data model creaking? - Martin, Cycle Streets
+9:54 30 Day Map Challenge - Tim Foster
+13:14 Linear maps for shopping streets - Robert Whittaker
+17:25 Mapping for low traffic neighbourhoods - Martin
 
 # #watch #sotmeurope2025 2025: Schrodinger's Data in OpenStreetMap
 https://www.youtube.com/watch?v=j_CXdqr3vSI
