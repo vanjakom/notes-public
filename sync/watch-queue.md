@@ -1,53 +1,69 @@
 
 # #todo process
-state of the map 2025
+
+DONE state of the map 2025
 20260309 trebalo bi da sam pokupio sve
 https://www.youtube.com/@StateoftheMapEurope/
 
 fosdem 2026, geospatial i ostali trackovi
+zavrsio geospatial pregledati ostalo
 https://fosdem.org/2026/schedule/track/geospatial/
 https://fosdem.org/2026/schedule/event/X7FTTA-millipede_and_centipede-rtk_centimeter-level_gnss_positioning_for_the_rest_of_us/
 
-# #watch #sotmeurope2025 2025: An academic insight on the functioning of fAIr
-https://www.youtube.com/watch?v=7o1RC3KPDkE
-
-# #watch #sotmeurope2025 2025: Kreuzungen - Where open geospatial data and cycling intersect.
-https://www.youtube.com/watch?v=uLOnUVHwJJY
-
-# #watch #sotmeurope2025 2025: Complementing OSM Cycling Data through Official Datasets
-https://www.youtube.com/watch?v=OCc-vS1UpDs
-
-# #watch #sotmeurope2025 2025: Transparency and Trust in Collaborative Mapping
-https://www.youtube.com/watch?v=qfCVT8P0jA0
-
-# #watch #sotmeurope2025 2025: Where are we at with MapTCHA?
-https://www.youtube.com/watch?v=1g8memKNVBQ
-
-# #watch #sotmeurope2025 2025: Minutely vector tiles deep dive
-https://www.youtube.com/watch?v=r5zlVkhkbFQ&t=1s
-
-# #watch #sotmeurope2025 2025: Lightning Talks 3
-https://www.youtube.com/watch?v=Nhzl0-SlQRw
-0:00 Core software facilitator roadmap - Adam Hoyle
-4:25 Woodlands are not what you think! - Mike N
-9:04 Humanitarian Isolation Index for air access - Matthew Sampias
-13:33 Mapping Trees - Jerry Clough (SK53)
-19:47 Every Door for obessed mappers - Ilja Zverek
-
-# #watch #sotmeurope2025 2025: Lightning Talks 4
-https://www.youtube.com/watch?v=JAtNqSFr58U
-0:00 Panoramax instance for Europe? - Lorenzo
-3:13 Is the OSM data model creaking? - Martin, Cycle Streets
-9:54 30 Day Map Challenge - Tim Foster
-13:14 Linear maps for shopping streets - Robert Whittaker
-17:25 Mapping for low traffic neighbourhoods - Martin
-
-# #watch #sotmeurope2025 2025: Schrodinger's Data in OpenStreetMap
-https://www.youtube.com/watch?v=j_CXdqr3vSI
 
 # #watch #sotmeurope2025 2025: Working with OSM Notes and getting OSM Notes working
 https://www.youtube.com/watch?v=vnRNidqzaHU
 
+# #watch #fosdem2026 GIS are in the plugins
+https://fosdem.org/2026/schedule/event/BDSKNU-gis-plugins/
+
+# #watch #fosdem2026 State of the MapLibre Tile Format
+https://fosdem.org/2026/schedule/event/QAL9VN-state-of-the-maplibre-tile-format/
+
+# #watch #fosdem2026 Boost.Geometry: A C++ library for geometric computations
+https://fosdem.org/2026/schedule/event/XHVCWY-boost_geometry_a_c_library_for_geometric_computations/
+
+# #watch #fosdem2026 Monitoring OpenStreetMap contribution topics with Podoma
+https://fosdem.org/2026/schedule/event/TJ8TQS-openstreetmap-podoma-monitoring-worldwide/
+
+# #watch #fosdem2026 A new stack for OpenStreetMap vector tiles
+https://fosdem.org/2026/schedule/event/HDWSCA-a_new_stack_for_openstreetmap_vector_tiles/
+
+# #watch #fosdem2026 Exploring time series bike share data with duckdb
+https://fosdem.org/2026/schedule/event/PRZC3J-exploring_time_series_bike_share_data_with_duckdb/
+
+# #watch #fosdem2026 Keeping Spatial Scripting Sane
+https://fosdem.org/2026/schedule/event/EXZ8EJ-keeping_spatial_scripting_sane/
+
+# #watch #fosdem2026 A crowd-sourced open data site for memorial benches!
+https://fosdem.org/2026/schedule/event/TFFDM8-openbenches/
+
+# #watch #fosdem2026 BIMS: An Open-Source Platform for Biodiversity Data and Decision-Making
+https://fosdem.org/2026/schedule/event/E8LDJP-bims_an_open-source_platform_for_biodiversity_data_and_decision-making/
+
+# #watch #fosdem2026 Lessons from teaching 100+ beginners to use the OpenStreetMap
+https://fosdem.org/2026/schedule/event/X7P8M8-lessons_from_teaching_100_beginners_to_use_the_openstreetmap/
+
+# #watch #fosdem2026 JupyterGIS — Interactive, Collaborative, and Client-Side Geospatial Computing in JupyterLab
+https://fosdem.org/2026/schedule/event/JGKKFF-jupytergis/
+
+# #watch #fosdem2026 Build Reusable EO Workflows using openEO in the Copernicus Data Space Ecosystem
+https://fosdem.org/2026/schedule/event/MAKYCY-openeo-for-eo-data-analysis/
+
+# #watch #fosdem2026 Climate × Health Pulse: Open Geospatial Prototype for Climate-Aware County Health Planning in Kenya
+https://fosdem.org/2026/schedule/event/HKDSCY-climate-health-pulse/
+
+# #watch #fosdem2026 Planes, Ships, Birds - building real-time visualizations with ClickHouse
+https://fosdem.org/2026/schedule/event/9XN89G-geohouse/
+
+# #watch #fosdem2026 Cave surveying - GIS with a Z-axis
+https://fosdem.org/2026/schedule/event/WX8XEQ-cave-surveying/
+
+# #watch #fosdem2026 Millipede and Centipede-RTK: centimeter-level GNSS positioning for the rest of us
+https://fosdem.org/2026/schedule/event/X7FTTA-millipede_and_centipede-rtk_centimeter-level_gnss_positioning_for_the_rest_of_us/
+
+# #watch #fosdem2026 OSM2World: 3D rendering OpenStreetMap data
+https://fosdem.org/2026/schedule/event/BMMGNT-osm2world_3d_rendering_openstreetmap_data/
 
 queue for later:
 
