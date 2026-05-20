@@ -1,24 +1,15 @@
 
 # #todo process
 
-DONE state of the map 2025
-20260309 trebalo bi da sam pokupio sve
-https://www.youtube.com/@StateoftheMapEurope/
+DONE state of the map 2025  
+20260309 trebalo bi da sam pokupio sve  
+https://www.youtube.com/@StateoftheMapEurope/  
 
-fosdem 2026, geospatial i ostali trackovi
-krenuo
-https://fosdem.org/2026/schedule/track/ai/
-zavrsio geospatial pregledati ostalo
-https://fosdem.org/2026/schedule/track/geospatial/
-https://fosdem.org/2026/schedule/event/X7FTTA-millipede_and_centipede-rtk_centimeter-level_gnss_positioning_for_the_rest_of_us/
-
-
-# #watch #fosdem2026 OSM2World: 3D rendering OpenStreetMap data
-https://fosdem.org/2026/schedule/event/BMMGNT-osm2world_3d_rendering_openstreetmap_data/
-
-
-# #watch #fosdem2026 Welcome to the AI Plumbers Devroom
-https://fosdem.org/2026/schedule/event/Q3M37H-welcome_to_the_ai_plumbers_devroom/
+fosdem 2026, geospatial i ostali trackovi  
+krenuo   
+https://fosdem.org/2026/schedule/track/ai/  
+zavrsio geospatial pregledati ostalo  
+https://fosdem.org/2026/schedule/track/geospatial/  
 
 # #watch #fosdem2026 Multimodal support in llama.cpp - Achievements and Future Directions
 https://fosdem.org/2026/schedule/event/LRZJEH-llama-cpp-multimodal/
@@ -28,6 +19,27 @@ https://fosdem.org/2026/schedule/event/C9NF8K-api_remoting_for_llama_cpp_near-na
 
 # #watch #fosdem2026 tract - an efficient rust neural network inference engine
 https://fosdem.org/2026/schedule/event/YJJQTD-tract-and-torch-to-nnef/
+
+# #watch #fosdem2026 Beyond TinyML: Balance inference accuracy and latency on MCUs
+https://fosdem.org/2026/schedule/event/X9XTL3-mliot/
+
+# #watch #fosdem2026 Bringing up bare metal ExecuTorch on RISC-V
+https://fosdem.org/2026/schedule/event/Z3TEMS-executorch-for-bare-metal-microcontrollers/
+
+# #watch #fosdem2026 WebNN and WebLLM on RISC-V: Closing the AI Acceleration Gap with RVV and Tenstorrent
+https://fosdem.org/2026/schedule/event/E7WQQX-webnn_and_webllm_on_risc-v_closing_the_ai_acceleration_gap_with_rvv_and_tenstorr/
+
+# #watch #fosdem2026 Single-source cross-platform GPU LLM inference with Slang and Rust
+https://fosdem.org/2026/schedule/event/QU9UF3-slang-cross-platform-inference/
+
+# #watch #fosdem2026 Closing the Loop: A Self-Learning Compiler for AI Accelerators
+https://fosdem.org/2026/schedule/event/DKKE8W-self-learning-compiler-docc/
+
+# #watch #fosdem2026 One GPU, Many Models: What Works and What Segfaults
+https://fosdem.org/2026/schedule/event/B39JSW-one-gpu-many-models/
+
+# #watch #fosdem2026 OneAI: An Open-Source Framework for Managing AI Models at Scale
+https://fosdem.org/2026/schedule/event/7PAYWS-oneai_an_open-source_framework_for_managing_ai_models_at_scale/
 
 queue for later:
 
