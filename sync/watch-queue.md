@@ -1,16 +1,17 @@
 
 # #todo process
 
-DONE state of the map 2025  
-20260309 trebalo bi da sam pokupio sve  
-https://www.youtube.com/@StateoftheMapEurope/  
+DONE state of the map 2025 20260309 https://www.youtube.com/@StateoftheMapEurope/  
 
 fosdem 2026, geospatial i ostali trackovi  
-zavrsio ai   
-https://fosdem.org/2026/schedule/track/ai/  
-zavrsio geospatial pregledati ostalo  
-https://fosdem.org/2026/schedule/track/geospatial/  
+https://fosdem.org/2026/schedule/track/foss-on-mobile/
+https://fosdem.org/2026/schedule/track/open-research/
+DONE https://fosdem.org/2026/schedule/track/ai/  
+DONE https://fosdem.org/2026/schedule/track/geospatial/  
+DONE https://fosdem.org/2026/schedule/track/python/
 
+# #watch #fosdem2026 Ducks to the rescue - ETL using Python and DuckDB
+https://fosdem.org/2026/schedule/event/S7RELZ-ducks_to_the_rescue_-_etl_using_python_and_duckdb/
 
 # #watch #fosdem2026 Lightning Talks
 https://fosdem.org/2026/schedule/event/YYTRKQ-lightning_talks/
