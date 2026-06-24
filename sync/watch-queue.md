@@ -10,52 +10,36 @@ DONE https://fosdem.org/2026/schedule/track/ai/
 DONE https://fosdem.org/2026/schedule/track/geospatial/  
 DONE https://fosdem.org/2026/schedule/track/python/
 
-# #watch #fosdem2026 Ducks to the rescue - ETL using Python and DuckDB
-https://fosdem.org/2026/schedule/event/S7RELZ-ducks_to_the_rescue_-_etl_using_python_and_duckdb/
+# #watch #fosdem2026 "State of FOSS on mobile"
+https://fosdem.org/2026/schedule/event/SW83YJ-state_of_foss_on_mobile/
+# #watch #fosdem2026 Open Source RISC-V AOSP Porting: Progress, Challenges, and Upstream Work
+https://fosdem.org/2026/schedule/event/SXX8HE-open_source_risc-v_aosp_porting_progress_challenges_and_upstream_work/
+# #watch #fosdem2026 Deep dive AOSP: Insights and statistics about the Android Open Source Project
+https://fosdem.org/2026/schedule/event/9DRDS7-deep-dive-aosp/
+# #watch #fosdem2026 Reproducible Builds for Android Apps
+https://fosdem.org/2026/schedule/event/8VDKQR-reproducible_builds_for_android_apps/
+# #watch #fosdem2026 NewPipe - Porting an Android app to Sailfish OS
+https://fosdem.org/2026/schedule/event/R7NR3U-newpipe-sailpipe/
+# #watch #fosdem2026 Introducing Cardinal: a different approach of open source maps app
+https://fosdem.org/2026/schedule/event/WRU7C9-cardinal-maps-application/
+# #watch #fosdem2026 postmarketOS: Reliability in 2026
+https://fosdem.org/2026/schedule/event/QUYXW7-postmarketos-reliability-2026/
+# #watch #fosdem2026 Mainline kernel for Fairphones - 2026 update
+https://fosdem.org/2026/schedule/event/ZNAAZX-mainline_kernel_for_fairphones_-_2026_update/
+# #watch #fosdem2026 Photos and Video Recording on Mobile Phones
+https://fosdem.org/2026/schedule/event/NZCWQJ-photos_and_video_recording_on_mobile_phones/
+# #watch #fosdem2026 UnifiedPush - Push notifications. Decentralized and Open Source
+https://fosdem.org/2026/schedule/event/7HJJS7-unifiedpush_-_push_notifications_decentralized_and_open_source/
+# #watch #fosdem2026 Phosh: What's new and where are we going?
+https://fosdem.org/2026/schedule/event/XHPZND-phosh-2026/
+# #watch #fosdem2026 Running mainline Linux on the Unisoc-based Jolla C2
+https://fosdem.org/2026/schedule/event/9KYVGM-jolla-c2/
+# #watch #fosdem2026 Running GNOME OS on mobile phones
+https://fosdem.org/2026/schedule/event/ESE3GP-gnome-os-on-mobile/
+# #watch #fosdem2026 The Linux Phone App Ecosystem (2026)
+https://fosdem.org/2026/schedule/event/VH3GYN-linux-phone-app-ecosystem-2026/
 
-# #watch #fosdem2026 Lightning Talks
-https://fosdem.org/2026/schedule/event/YYTRKQ-lightning_talks/
-
-# #watch #fosdem2026 TT-Boltz: Drug Discovery on Tenstorrent Hardware
-https://fosdem.org/2026/schedule/event/AJLNVH-tt-boltz/
-
-# #watch #fosdem2026 Review of kernel and user-space Neural Processing Unit (NPU) chips support on Linux
-https://fosdem.org/2026/schedule/event/QGKD3P-review_of_kernel_and_user-space_neural_processing_unit_npu_chips_support_on_linu/
-
-# #watch #fosdem2026 All in RISC-V, RISC-V All in AI: Solving Real AI Compute Challenges with DeepComputing & Tenstorrent
-https://fosdem.org/2026/schedule/event/799WTL-all_in_risc-v_risc-v_all_in_ai_solving_real_ai_compute_challenges_with_deepcompu/
-
-# #watch #fosdem2026 Zero to matmul with the ET-SoC-1
-https://fosdem.org/2026/schedule/event/T3PSFN-zero_to_matmul_with_the_et-soc-1/
-
-# #watch #fosdem2026 A practical introduction to the ET platform.
-https://fosdem.org/2026/schedule/event/J9B9TR-et-platform-intro/
-
-# #watch #fosdem2026 From Infrastructure to Production: A Year of Self-Hosted LLMs
-https://fosdem.org/2026/schedule/event/PD8WGF-from_infrastructure_to_production_a_year_of_self-hosted_llms/
-
-# #watch #fosdem2026 Taming the LLM Zoo with Docker Model Runner: Inference with OCI Artifacts, llama.cpp, and vLLM
-https://fosdem.org/2026/schedule/event/VGXWNS-taming_the_llm_zoo_with_docker_model_runner_inference_with_oci_artifacts_llama_c/
-
-# #watch #fosdem2026 Supercharging LLM serving with Dynamo
-https://fosdem.org/2026/schedule/event/Z7LBYT-supercharging_llm_serving_with_dynamo/
-
-# #watch #fosdem2026 Lowering the barrier of entrance in AI-native system development
-https://fosdem.org/2026/schedule/event/TDB3WN-ainativeprototyping/
-
-# #watch #fosdem2026 The Hidden Cost of Intelligence: The Energy Footprint of AI from Code to GPU Kernels
-https://fosdem.org/2026/schedule/event/SPJDGF-energy-footprint-ai/
-
-# #watch #fosdem2026 Running tinygrad and ggml on microcontroller NPUs
-https://fosdem.org/2026/schedule/event/VYEMQR-running_tinygrad_and_ggml_on_microcontroller_npus/
-
-# #watch #fosdem2026 Vulkan API for Machine Learning? Competing with CUDA and ROCm in llama.cpp
-https://fosdem.org/2026/schedule/event/CZSPSC-llama-cpp-vulkan/
-
-# #watch #fosdem2026 OneAI: An Open-Source Framework for Managing AI Models at Scale
-https://fosdem.org/2026/schedule/event/7PAYWS-oneai_an_open-source_framework_for_managing_ai_models_at_scale/
-
-queue for later:
+# queue for later:
 
 # #watch #sotmeurope2025 2025: fAIr: Community AI-Assisted Mapping for Humanitarian Response
 https://www.youtube.com/watch?v=tyciwFwCvtM
