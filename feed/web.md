@@ -1,4 +1,7 @@
 
+# Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402
+https://blog.cloudflare.com/monetization-gateway/
+
 # Null Island
 https://en.wikipedia.org/wiki/Null_Island
 
