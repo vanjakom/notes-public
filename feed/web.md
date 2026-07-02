@@ -1,4 +1,8 @@
 
+# Open Location Code
+https://en.wikipedia.org/wiki/Open_Location_Code
+https://github.com/google/open-location-code
+
 # Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402
 https://blog.cloudflare.com/monetization-gateway/
 
