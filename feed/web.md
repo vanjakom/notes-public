@@ -1,4 +1,7 @@
 
+# Искра, технолођија
+https://www.politika.rs/scc/clanak/767527/pogledi/iskra-tehnolodija
+
 # Open Location Code
 https://en.wikipedia.org/wiki/Open_Location_Code
 https://github.com/google/open-location-code
