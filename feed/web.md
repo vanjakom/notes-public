@@ -1,4 +1,7 @@
 
+# #watch #fosdem Running mainline Linux on the Unisoc-based Jolla C2
+https://fosdem.org/2026/schedule/event/9KYVGM-jolla-c2/
+
 # GRASS
 https://grass.osgeo.org
 

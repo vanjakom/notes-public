@@ -4,41 +4,92 @@
 DONE state of the map 2025 20260309 https://www.youtube.com/@StateoftheMapEurope/  
 
 fosdem 2026, geospatial i ostali trackovi  
-https://fosdem.org/2026/schedule/track/open-research/
-https://fosdem.org/2026/schedule/track/rust/
-DONE https://fosdem.org/2026/schedule/track/foss-on-mobile/
+
+https://fosdem.org/2026/schedule/track/embedded-mobile-and-automotive/
+https://fosdem.org/2026/schedule/track/building-europes-public-digital-infrastructure/
+https://fosdem.org/2026/schedule/track/browser-and-web-platform/
+https://fosdem.org/2026/schedule/track/dev-random/
+DONE https://fosdem.org/2026/schedule/track/decentralised-communication/
+DONE https://fosdem.org/2026/schedule/track/open-research/  
+DONE https://fosdem.org/2026/schedule/track/rust/  
+DONE https://fosdem.org/2026/schedule/track/foss-on-mobile/  
 DONE https://fosdem.org/2026/schedule/track/ai/  
 DONE https://fosdem.org/2026/schedule/track/geospatial/  
-DONE https://fosdem.org/2026/schedule/track/python/
+DONE https://fosdem.org/2026/schedule/track/python/  
 
-# #watch #fosdem2026 "State of FOSS on mobile"
-https://fosdem.org/2026/schedule/event/SW83YJ-state_of_foss_on_mobile/
-# #watch #fosdem2026 Open Source RISC-V AOSP Porting: Progress, Challenges, and Upstream Work
-https://fosdem.org/2026/schedule/event/SXX8HE-open_source_risc-v_aosp_porting_progress_challenges_and_upstream_work/
-# #watch #fosdem2026 Deep dive AOSP: Insights and statistics about the Android Open Source Project
-https://fosdem.org/2026/schedule/event/9DRDS7-deep-dive-aosp/
-# #watch #fosdem2026 Reproducible Builds for Android Apps
-https://fosdem.org/2026/schedule/event/8VDKQR-reproducible_builds_for_android_apps/
-# #watch #fosdem2026 NewPipe - Porting an Android app to Sailfish OS
-https://fosdem.org/2026/schedule/event/R7NR3U-newpipe-sailpipe/
-# #watch #fosdem2026 Introducing Cardinal: a different approach of open source maps app
-https://fosdem.org/2026/schedule/event/WRU7C9-cardinal-maps-application/
-# #watch #fosdem2026 postmarketOS: Reliability in 2026
-https://fosdem.org/2026/schedule/event/QUYXW7-postmarketos-reliability-2026/
-# #watch #fosdem2026 Mainline kernel for Fairphones - 2026 update
-https://fosdem.org/2026/schedule/event/ZNAAZX-mainline_kernel_for_fairphones_-_2026_update/
-# #watch #fosdem2026 Photos and Video Recording on Mobile Phones
-https://fosdem.org/2026/schedule/event/NZCWQJ-photos_and_video_recording_on_mobile_phones/
-# #watch #fosdem2026 UnifiedPush - Push notifications. Decentralized and Open Source
-https://fosdem.org/2026/schedule/event/7HJJS7-unifiedpush_-_push_notifications_decentralized_and_open_source/
-# #watch #fosdem2026 Phosh: What's new and where are we going?
-https://fosdem.org/2026/schedule/event/XHPZND-phosh-2026/
-# #watch #fosdem2026 Running mainline Linux on the Unisoc-based Jolla C2
-https://fosdem.org/2026/schedule/event/9KYVGM-jolla-c2/
-# #watch #fosdem2026 Running GNOME OS on mobile phones
-https://fosdem.org/2026/schedule/event/ESE3GP-gnome-os-on-mobile/
 # #watch #fosdem2026 The Linux Phone App Ecosystem (2026)
 https://fosdem.org/2026/schedule/event/VH3GYN-linux-phone-app-ecosystem-2026/
+
+# #watch #fosdem2026 Matrix State of the Union
+https://fosdem.org/2026/schedule/event/URX89L-matrix-state-of-the-union/
+
+# #watch #fosdem2026 Community moderation in Matrix
+https://fosdem.org/2026/schedule/event/JKWGWG-community_moderation_in_matrix/
+
+# #watch #fosdem2026 Lighter, faster, simpler: An Element Web for the future
+https://fosdem.org/2026/schedule/event/DZJVTS-an-element-web-client-for-the-future/
+
+# #watch #fosdem2026 MatrixRTC x Godot - A Battle Royale
+https://fosdem.org/2026/schedule/event/UW9GKA-matrixrtc-godot-battle-royale/
+
+# #watch #fosdem2026 Sustainable decentralised comms at Element
+https://fosdem.org/2026/schedule/event/BRRQYU-sustainable-matrix-at-element/
+
+# #watch #fosdem2026 Stop Reinventing in Isolation: Bringing Open Source to Trust & Safety Infrastructure
+https://fosdem.org/2026/schedule/event/U7ABHE-roost-osprey/
+
+# #watch #fosdem2026 DMLS vs DMLS: decentralizing/distributing Messaging Layer Security
+https://fosdem.org/2026/schedule/event/STAXFT-dmls_vs_dmls_decentralizingdistributing_messaging_layer_security/
+
+# #watch #fosdem2026 Engineering XMPP Federation: Building Messaging, Voice & Social Features Across Independent Projects
+https://fosdem.org/2026/schedule/event/7XJL9E-engineering_xmpp_federation_building_messaging_voice_social_features_across_inde/
+
+# #watch #fosdem2026 Movim: Building a Decentralized Social Network on XMPP
+https://fosdem.org/2026/schedule/event/EVSXLA-movim-building-decentralized-social-network-xmpp/
+
+# #watch #fosdem2026 What are you listening to now?: Implementing "Now Playing" feature in modern XMPP
+https://fosdem.org/2026/schedule/event/8EDWJT-now-playing-revisited/
+
+# #watch #fosdem2026 Bonfire: Modular Communication Tools on the Open Social Web
+https://fosdem.org/2026/schedule/event/LSUYXG-bonfire_modular_communication_tools_on_the_open_social_web/
+
+# #watch #fosdem2026 DASL Your Protocols!
+https://fosdem.org/2026/schedule/event/W8CJXD-dasl/
+
+# #watch #fosdem2026 Reverse Google: From email to decentralization
+https://fosdem.org/2026/schedule/event/3WHULW-reverse_google_from_email_to_decentralization/
+
+# #watch #fosdem2026 AT: The Billion-Edge Open Social Graph
+https://fosdem.org/2026/schedule/event/ZT7TB9-at-the-billion-edge-social-graph/
+
+# #watch #fosdem2026 We d-build it, but they didn't come
+https://fosdem.org/2026/schedule/event/TXKLRJ-we_d-build_it_but_they_didnt_come/
+
+# #watch #fosdem2026 Draupnir: a field report on building community focussed T&S tooling within an open federation
+https://fosdem.org/2026/schedule/event/SHYBQ7-draupnir_a_field_report_on_building_community_focussed_t_s_tooling_within_an_ope/
+
+
+# #watch #fosdem2026 Building performance-critical Python tools with Rust: Lessons from production
+https://fosdem.org/2026/schedule/event/RCFALN-rust-building-performance-critical-python-apps/
+
+# #watch #fosdem2026 Clickhouse’s C++ and Rust journey
+https://fosdem.org/2026/schedule/event/NBLNRY-rust-clickhouse/
+
+
+# #watch #fosdem2026 Common Expression Language (CEL) in Rust
+https://fosdem.org/2026/schedule/event/DBGZAU-rust-cel/
+
+# #watch #fosdem2026 Async Rust in Godot 4: Leveraging the engine as a runtime
+https://fosdem.org/2026/schedule/event/ED3EWJ-rust-godot4-async/
+
+# #watch #fosdem2026 RustBoy: A Rust journey into Game Boy dev
+https://fosdem.org/2026/schedule/event/W3UFSK-rust-game-boy/
+
+# #watch #fosdem2026 Rust meets cheap bare-metal RISC-V
+https://fosdem.org/2026/schedule/event/JCZA8P-rust-meets-cheap-bare-metal-risc-v/
+
+# #watch #fosdem2026 Bringing WebAssembly to constrained devices with Rust: Runtimes, tooling, and real-world tradeoffs
+https://fosdem.org/2026/schedule/event/8TDKRT-rust-wasm-embedded/
 
 # queue for later:
 
