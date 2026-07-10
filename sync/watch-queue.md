@@ -4,7 +4,6 @@
 DONE state of the map 2025 20260309 https://www.youtube.com/@StateoftheMapEurope/  
 
 fosdem 2026, geospatial i ostali trackovi  
-
 https://fosdem.org/2026/schedule/track/embedded-mobile-and-automotive/
 https://fosdem.org/2026/schedule/track/building-europes-public-digital-infrastructure/
 https://fosdem.org/2026/schedule/track/browser-and-web-platform/
