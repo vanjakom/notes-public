@@ -1,13 +1,13 @@
 
 # #todo process
-https://peertube.openstreetmap.fr/c/sotm_2026/videos
+https://peertube.openstreetmap.fr/c/sotm_2026/videos  
 fosdem 2026, geospatial i ostali trackovi  
-https://fosdem.org/2026/schedule/track/embedded-mobile-and-automotive/
-https://fosdem.org/2026/schedule/track/building-europes-public-digital-infrastructure/
-https://fosdem.org/2026/schedule/track/browser-and-web-platform/
-https://fosdem.org/2026/schedule/track/dev-random/
-DONE https://developer.apple.com/videos/wwdc2026/
-DONE https://fosdem.org/2026/schedule/track/decentralised-communication/
+https://fosdem.org/2026/schedule/track/embedded-mobile-and-automotive/  
+https://fosdem.org/2026/schedule/track/building-europes-public-digital-infrastructure/  
+https://fosdem.org/2026/schedule/track/browser-and-web-platform/  
+https://fosdem.org/2026/schedule/track/dev-random/  
+DONE https://developer.apple.com/videos/wwdc2026/  
+DONE https://fosdem.org/2026/schedule/track/decentralised-communication/  
 DONE https://fosdem.org/2026/schedule/track/open-research/  
 DONE https://fosdem.org/2026/schedule/track/rust/  
 DONE https://fosdem.org/2026/schedule/track/foss-on-mobile/  
