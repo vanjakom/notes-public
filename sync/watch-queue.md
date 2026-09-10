@@ -1,13 +1,12 @@
 
 # #todo process
-
-DONE state of the map 2025 20260309 https://www.youtube.com/@StateoftheMapEurope/  
-
+https://peertube.openstreetmap.fr/c/sotm_2026/videos
 fosdem 2026, geospatial i ostali trackovi  
 https://fosdem.org/2026/schedule/track/embedded-mobile-and-automotive/
 https://fosdem.org/2026/schedule/track/building-europes-public-digital-infrastructure/
 https://fosdem.org/2026/schedule/track/browser-and-web-platform/
 https://fosdem.org/2026/schedule/track/dev-random/
+DONE https://developer.apple.com/videos/wwdc2026/
 DONE https://fosdem.org/2026/schedule/track/decentralised-communication/
 DONE https://fosdem.org/2026/schedule/track/open-research/  
 DONE https://fosdem.org/2026/schedule/track/rust/  
@@ -15,30 +14,19 @@ DONE https://fosdem.org/2026/schedule/track/foss-on-mobile/
 DONE https://fosdem.org/2026/schedule/track/ai/  
 DONE https://fosdem.org/2026/schedule/track/geospatial/  
 DONE https://fosdem.org/2026/schedule/track/python/  
+DONE state of the map 2025 20260309 https://www.youtube.com/@StateoftheMapEurope/  
 
-# #watch #fosdem2026 The Linux Phone App Ecosystem (2026)
-https://fosdem.org/2026/schedule/event/VH3GYN-linux-phone-app-ecosystem-2026/
+# #watch #wwdc2026 What’s new in Swift
+https://developer.apple.com/videos/play/wwdc2026/262/
 
-# #watch #fosdem2026 Matrix State of the Union
-https://fosdem.org/2026/schedule/event/URX89L-matrix-state-of-the-union/
+# #watch #wwdc2026 What’s new in SwiftUI
+https://developer.apple.com/videos/play/wwdc2026/269/
 
-# #watch #fosdem2026 Community moderation in Matrix
-https://fosdem.org/2026/schedule/event/JKWGWG-community_moderation_in_matrix/
+# #watch #wwdc2026 SwiftUI for Beginners Group Lab
+https://developer.apple.com/videos/play/wwdc2026/8002/
 
-# #watch #fosdem2026 Lighter, faster, simpler: An Element Web for the future
-https://fosdem.org/2026/schedule/event/DZJVTS-an-element-web-client-for-the-future/
-
-# #watch #fosdem2026 MatrixRTC x Godot - A Battle Royale
-https://fosdem.org/2026/schedule/event/UW9GKA-matrixrtc-godot-battle-royale/
-
-# #watch #fosdem2026 Sustainable decentralised comms at Element
-https://fosdem.org/2026/schedule/event/BRRQYU-sustainable-matrix-at-element/
-
-# #watch #fosdem2026 Stop Reinventing in Isolation: Bringing Open Source to Trust & Safety Infrastructure
-https://fosdem.org/2026/schedule/event/U7ABHE-roost-osprey/
-
-# #watch #fosdem2026 DMLS vs DMLS: decentralizing/distributing Messaging Layer Security
-https://fosdem.org/2026/schedule/event/STAXFT-dmls_vs_dmls_decentralizingdistributing_messaging_layer_security/
+# #watch #wwdc2026 SwiftUI Group Lab
+https://developer.apple.com/videos/play/wwdc2026/8006/
 
 # #watch #fosdem2026 Engineering XMPP Federation: Building Messaging, Voice & Social Features Across Independent Projects
 https://fosdem.org/2026/schedule/event/7XJL9E-engineering_xmpp_federation_building_messaging_voice_social_features_across_inde/
