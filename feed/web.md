@@ -1,3 +1,10 @@
+[notemd]
+
+# Vrhovi is a free social network for hikers
+https://vrhovi.com/
+
+# X:KaiLentit Big Data engineers 2026.
+https://x.com/KaiLentit/status/2100629518784328013
 
 # Mapscaping Podcast: 10 Tools for Telling Stories With Maps
 https://mapscaping.com/podcast/10-tools-for-telling-stories-with-maps/
