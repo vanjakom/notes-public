@@ -184,7 +184,12 @@ relation 14281022
 ```  
 
 # OSM Notes
-
+  
+Интегрисане у OSM homepage.  
+  
+http://openstreetmap.org/?layers=N  
+  
+Могућност додавања без логовања (анонимно).  
 
 # Демо: Map data и Query tool
   
@@ -210,11 +215,28 @@ https://vanjakom.github.io/osm-pss-integration/dataset/osm-state.html
 
 # ОСМ Заједница у Србији
   
-generalni wiki  
+OSM Вики странице:  
+https://wiki.openstreetmap.org  
+  
+https://wiki.openstreetmap.org/wiki/WikiProject_Serbia  
   
 https://wiki.openstreetmap.org/wiki/Serbia/Beleske/Dobrodosli  
   
 https://wiki.openstreetmap.org/wiki/Serbia/Projekti  
+  
+https://wiki.openstreetmap.org/wiki/Serbia/Mapping_Serbia  
+  
+vanjakom: Како мапирати:  
+https://github.com/vanjakom/zanimljiva-geografija/blob/master/blog/kako_mapirati.md  
+  
+Сајт OSM заједнице у Србије:  
+https://openstreetmap.rs  
+  
+OSM форум: Србија:  
+https://forum.openstreetmap.org/viewforum.php?id=62  
+  
+Телеграм канал заједнице:  
+https://t.me/osm_sr  
 
 # Пројекти од интереса за Планинаре
   
@@ -231,7 +253,7 @@ https://wiki.openstreetmap.org/wiki/Serbia/Projekti/Odrzavanje_pesackih_staza_Sr
 https://wiki.openstreetmap.org/wiki/Serbia/Projekti/Evropski_pešački_put_E7  
 https://wiki.openstreetmap.org/wiki/Serbia/Projekti/Vodic_za_planinare  
   
-Планинари и OSM  
+Планинари и OSM:  
   
 https://wiki.openstreetmap.org/wiki/Serbia/Beleske/Planinari_i_OSM  
 
