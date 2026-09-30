@@ -22,7 +22,7 @@ https://josm.openstreetmap.de
   
 https://level0.osmz.ru  
   
-Анализа и измена података ПСС у OСМ:  
+Анализа и измена података ПСС у OSM:  
 https://github.com/vanjakom/osm-pss-integration  
   
 Едитори за мобилне уређаје:  
@@ -128,6 +128,8 @@ way 690352197
   nd 6476853370  
 ```  
 
+https://wiki.openstreetmap.org/wiki/Tag:tourism%3Dalpine_hut
+
 # OSM relation
 Дивчибаре центар - Планинарски дом „На Пољанама”  
 https://www.openstreetmap.org/relation/14281022  
@@ -182,6 +184,10 @@ relation 14281022
   wy 473446368  
   wy 936931660  
 ```  
+
+https://wiki.openstreetmap.org/wiki/Hiking
+
+https://wiki.openstreetmap.org/wiki/Tag:route%3Dhiking
 
 # OSM Notes
   
