@@ -2,6 +2,8 @@
   
 OSM је база података.  
 
+https://openstreetmap.org је само сервис за преглед мапе.
+
 # OSM екосистем
   
 Око OSM постоји екосистем алата и сервиса који читају и   
@@ -39,6 +41,17 @@ https://www.locusmap.app
 https://osmand.net  
 https://organicmaps.app  
 https://maps.me  
+
+# tile
+
+https://tile.openstreetmap.org/0/0/0.png
+
+https://tile.openstreetmap.org/1/0/0.png
+https://tile.openstreetmap.org/1/1/0.png
+https://tile.openstreetmap.org/1/0/1.png
+https://tile.openstreetmap.org/1/1/1.png
+
+
 
 # OSM data model
   
@@ -171,6 +184,8 @@ https://pss.rs/terenipp/narcisu-u-pohode/
 https://vanjakom.github.io/osm-pss-integration/dataset/osm-state.html  
 
 # ОСМ Заједница у Србији
+  
+generalni wiki
   
 https://wiki.openstreetmap.org/wiki/Serbia/Beleske/Dobrodosli  
   

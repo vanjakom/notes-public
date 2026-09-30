@@ -1,0 +1,210 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <style>
+      body {font-family: monospace; max-width: 900px; margin: 40px auto;padding: 0 20px;}
+.code-block {background: #f6f8fa; border: 1px solid #d0d7de;border-radius: 6px; padding: 16px; overflow-x: auto;}
+
+    </style>
+  </head>
+  <body>
+    <div class="note">
+      <h1> tile</h1>
+  <br>
+<a href="https://tile.openstreetmap.org/0/0/0.png">https://tile.openstreetmap.org/0/0/0.png</a>  <br>
+  <br>
+<a href="https://tile.openstreetmap.org/1/0/0.png">https://tile.openstreetmap.org/1/0/0.png</a>  <br>
+<a href="https://tile.openstreetmap.org/1/1/0.png">https://tile.openstreetmap.org/1/1/0.png</a>  <br>
+<a href="https://tile.openstreetmap.org/1/0/1.png">https://tile.openstreetmap.org/1/0/1.png</a>  <br>
+<a href="https://tile.openstreetmap.org/1/1/1.png">https://tile.openstreetmap.org/1/1/1.png</a>  <br>
+  <br>
+<a href="https://tile.openstreetmap.org/12/2280/1476.png">https://tile.openstreetmap.org/12/2280/1476.png</a>  <br>
+<br>
+
+    </div>
+    <div class="note">
+      <h1> OSM data model</h1>
+  <br>
+tags - map, list of key, value pairs. key must be unique.  <br>
+  <br>
+node - longitude, latitude, tags  <br>
+noderef - pointer to node  <br>
+  <br>
+way - list of noderefs, tags  <br>
+wayref - pointer to way  <br>
+  <br>
+relation - mixed list of noderef, wayref, relationref, tags  <br>
+relationref - pointer to relation  <br>
+<br>
+
+    </div>
+    <div class="note">
+      <h1> OSM node</h1>
+пијаћа вода  <br>
+<a href="https://www.openstreetmap.org/node/9909056459">https://www.openstreetmap.org/node/9909056459</a>  <br>
+  <br>
+<a href="https://level0.osmz.ru/?url=n9909056459">https://level0.osmz.ru/?url=n9909056459</a>  <br>
+<pre class="code-block">node 9909056459: 44.1277537, 20.0154494  
+  amenity = drinking_water  
+</pre>
+<br>
+
+    </div>
+    <div class="note">
+      <h1> OSM way</h1>
+Планинарски дом „На пољани”  <br>
+<a href="https://www.openstreetmap.org/way/690352197">https://www.openstreetmap.org/way/690352197</a>  <br>
+  <br>
+<a href="https://level0.osmz.ru/?url=w690352197">https://level0.osmz.ru/?url=w690352197</a>  <br>
+<pre class="code-block">way 690352197  
+  addr:housenumber = 12  
+  addr:street = Краљев сто  
+  building = yes  
+  building:levels = 2  
+  capacity = 32  
+  ele = 1000  
+  int_name = Planinarski dom „Na poljani”  
+  name = Планинарски дом „На пољани”  
+  name:sr = Планинарски дом „На пољани”  
+  name:sr-Latn = Planinarski dom „Na poljani”  
+  note = 32 kreveta / 32 beds  
+  operator = Milomir Milošević: +381 14 236-377;Dušan Obradović: +381 64 461-3414;+381 62 851-7096  
+  ref:RS:kucni_broj = 6840535  
+  tourism = alpine_hut  
+  website = www.magles.org.rs/index.php/planinarski-domovi  
+  
+  nd 6476853370  
+  nd 6476853371  
+  nd 6476853372  
+  nd 6476853373  
+  nd 6476853370  
+</pre>
+<br>
+
+    </div>
+    <div class="note">
+      <h1> OSM relation</h1>
+Дивчибаре центар - Планинарски дом „На Пољанама”  <br>
+<a href="https://www.openstreetmap.org/relation/14281022">https://www.openstreetmap.org/relation/14281022</a>  <br>
+  <br>
+<a href="https://level0.osmz.ru/?url=r14281022">https://level0.osmz.ru/?url=r14281022</a>  <br>
+<pre class="code-block">relation 14281022  
+  ascent = 170  
+  descent = 149  
+  distance = 5.9 km  
+  name = Дивчибаре центар - Планинарски дом „На Пољанама”  
+  name:sr = Дивчибаре центар - Планинарски дом „На Пољанама”  
+  name:sr-Latn = Divčibare centar – Planinarski dom „Na Poljanama“  
+  network = rwn  
+  operator = Magleš PSD  
+  osmc:symbol = red:red_round::5:white  
+  ref = 3-22-5  
+  roundtrip = no  
+  route = hiking  
+  source = pss_staze  
+  type = route  
+  website = https://pss.rs/terenipp/divcibare-centar-planinarski-dom-na-poljanama/  
+  
+  wy 36192682  
+  wy 1464303301  
+  wy 36192681  
+  wy 861215082  
+  wy 861215083  
+  wy 36192087  
+  wy 1039705920  
+  wy 36191266  
+  wy 1462260901  
+  wy 1462260900  
+  wy 861215072  
+  wy 1072195388  
+  wy 1295793262  
+  wy 36219194  
+  wy 1072195390  
+  wy 892184952  
+  wy 892184948  
+  wy 892184949  
+  wy 892184934  
+  wy 884223775  
+  wy 631654118  
+  wy 884223770  
+  wy 964894719  
+  wy 252140446  
+  wy 252140436  
+  wy 1072195391  
+  wy 1248012467  
+  wy 484429138  
+  wy 473446368  
+  wy 936931660  
+</pre>
+<br>
+
+    </div>
+    <div class="note">
+      <h1> Демо: Map data и Query tool</h1>
+  <br>
+<a href="https://www.openstreetmap.org/#map=17/44.104113/19.990252">https://www.openstreetmap.org/#map=17/44.104113/19.990252</a>  <br>
+<br>
+
+    </div>
+    <div class="note">
+      <h1> Демо: Overpass turbo</h1>
+  <br>
+Пијаћа вода на Дивчибарама:  <br>
+<a href="https://overpass-turbo.eu/s/2xe8">https://overpass-turbo.eu/s/2xe8</a>  <br>
+<br>
+
+    </div>
+    <div class="note">
+      <h1> Демо: додавање забелешке и измена OSM</h1>
+  <br>
+Креираћемо забелешку и решити је изменом OSM базе.  <br>
+  <br>
+Продавница је затворена:  <br>
+<a href="https://www.openstreetmap.org/node/13592011429">https://www.openstreetmap.org/node/13592011429</a>  <br>
+<br>
+
+    </div>
+    <div class="note">
+      <h1> Демо: додавање планинарске стазе</h1>
+  <br>
+<a href="https://pss.rs/terenipp/narcisu-u-pohode/">https://pss.rs/terenipp/narcisu-u-pohode/</a>  <br>
+  <br>
+<a href="https://vanjakom.github.io/osm-pss-integration/dataset/osm-state.html">https://vanjakom.github.io/osm-pss-integration/dataset/osm-state.html</a>  <br>
+<br>
+
+    </div>
+    <div class="note">
+      <h1> OSM Заједница у Србији</h1>
+  <br>
+generalni wiki  <br>
+  <br>
+<a href="https://wiki.openstreetmap.org/wiki/Serbia/Beleske/Dobrodosli">https://wiki.openstreetmap.org/wiki/Serbia/Beleske/Dobrodosli</a>  <br>
+  <br>
+<a href="https://wiki.openstreetmap.org/wiki/Serbia/Projekti">https://wiki.openstreetmap.org/wiki/Serbia/Projekti</a>  <br>
+<br>
+
+    </div>
+    <div class="note">
+      <h1> Пројекти од интереса за Планинаре</h1>
+  <br>
+<a href="https://wiki.openstreetmap.org/wiki/Serbia/PD_Kablar_staze">https://wiki.openstreetmap.org/wiki/Serbia/PD_Kablar_staze</a>  <br>
+<a href="https://wiki.openstreetmap.org/wiki/Serbia/Projekti/NP_Tara_staze">https://wiki.openstreetmap.org/wiki/Serbia/Projekti/NP_Tara_staze</a>  <br>
+<a href="https://wiki.openstreetmap.org/wiki/Serbia/Projekti/Unos_planinarskih_staza_na_teritoriji_Nacionalnog_parka_Đerdap">https://wiki.openstreetmap.org/wiki/Serbia/Projekti/Unos_planinarskih_staza_na_teritoriji_Nacionalnog_parka_Đerdap</a>  <br>
+<a href="https://wiki.openstreetmap.org/wiki/Serbia/Projekti/Unos_planinarskih_staza_na_teritoriji_SRP_Obedska_bara">https://wiki.openstreetmap.org/wiki/Serbia/Projekti/Unos_planinarskih_staza_na_teritoriji_SRP_Obedska_bara</a>  <br>
+<a href="https://wiki.openstreetmap.org/wiki/Serbia/Projekti/Unos_pešačkih_staza_na_teritoriji_SRP_Deliblatska_peščara">https://wiki.openstreetmap.org/wiki/Serbia/Projekti/Unos_pešačkih_staza_na_teritoriji_SRP_Deliblatska_peščara</a>  <br>
+<a href="https://wiki.openstreetmap.org/wiki/Serbia/Projekti/Unos_pešačkih_staza_na_teritoriji_SRP_Gornje_Podunavlje">https://wiki.openstreetmap.org/wiki/Serbia/Projekti/Unos_pešačkih_staza_na_teritoriji_SRP_Gornje_Podunavlje</a>  <br>
+  <br>
+<a href="https://wiki.openstreetmap.org/wiki/Serbia/Projekti/PSS_staze">https://wiki.openstreetmap.org/wiki/Serbia/Projekti/PSS_staze</a>  <br>
+<a href="https://wiki.openstreetmap.org/wiki/Serbia/Projekti/Planinarske_staze_Grze">https://wiki.openstreetmap.org/wiki/Serbia/Projekti/Planinarske_staze_Grze</a>  <br>
+<a href="https://wiki.openstreetmap.org/wiki/Serbia/Projekti/Odrzavanje_pesackih_staza_Srbije">https://wiki.openstreetmap.org/wiki/Serbia/Projekti/Odrzavanje_pesackih_staza_Srbije</a>  <br>
+<a href="https://wiki.openstreetmap.org/wiki/Serbia/Projekti/Evropski_pešački_put_E7">https://wiki.openstreetmap.org/wiki/Serbia/Projekti/Evropski_pešački_put_E7</a>  <br>
+<a href="https://wiki.openstreetmap.org/wiki/Serbia/Projekti/Vodic_za_planinare">https://wiki.openstreetmap.org/wiki/Serbia/Projekti/Vodic_za_planinare</a>  <br>
+  <br>
+Планинари и OSM  <br>
+  <br>
+<a href="https://wiki.openstreetmap.org/wiki/Serbia/Beleske/Planinari_i_OSM">https://wiki.openstreetmap.org/wiki/Serbia/Beleske/Planinari_i_OSM</a>  <br>
+<br>
+
+    </div>
+  </body>
+</html>
