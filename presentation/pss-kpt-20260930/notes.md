@@ -127,8 +127,8 @@ way 690352197
   nd 6476853373  
   nd 6476853370  
 ```  
-
-https://wiki.openstreetmap.org/wiki/Tag:tourism%3Dalpine_hut
+  
+https://wiki.openstreetmap.org/wiki/Tag:tourism%3Dalpine_hut  
 
 # OSM relation
 Дивчибаре центар - Планинарски дом „На Пољанама”  
@@ -184,10 +184,10 @@ relation 14281022
   wy 473446368  
   wy 936931660  
 ```  
-
-https://wiki.openstreetmap.org/wiki/Hiking
-
-https://wiki.openstreetmap.org/wiki/Tag:route%3Dhiking
+  
+https://wiki.openstreetmap.org/wiki/Hiking  
+  
+https://wiki.openstreetmap.org/wiki/Tag:route%3Dhiking  
 
 # OSM Notes
   
@@ -196,28 +196,6 @@ https://wiki.openstreetmap.org/wiki/Tag:route%3Dhiking
 http://openstreetmap.org/?layers=N  
   
 Могућност додавања без логовања (анонимно).  
-
-# Демо: Map data и Query tool
-  
-https://www.openstreetmap.org/#map=17/44.104113/19.990252  
-
-# Демо: Overpass turbo
-  
-Пијаћа вода на Дивчибарама:  
-https://overpass-turbo.eu/s/2xe8  
-
-# Демо: додавање забелешке и измена OSM
-  
-Креираћемо забелешку и решити је изменом OSM базе.  
-  
-Продавница је затворена:  
-https://www.openstreetmap.org/node/13592011429  
-
-# Демо: додавање планинарске стазе
-  
-https://pss.rs/terenipp/narcisu-u-pohode/  
-  
-https://vanjakom.github.io/osm-pss-integration/dataset/osm-state.html  
 
 # ОСМ Заједница у Србији
   
@@ -262,4 +240,26 @@ https://wiki.openstreetmap.org/wiki/Serbia/Projekti/Vodic_za_planinare
 Планинари и OSM:  
   
 https://wiki.openstreetmap.org/wiki/Serbia/Beleske/Planinari_i_OSM  
+
+# Демо: Map data и Query tool
+  
+https://www.openstreetmap.org/#map=17/44.104113/19.990252  
+
+# Демо: Overpass turbo
+  
+Пијаћа вода на Дивчибарама:  
+https://overpass-turbo.eu/s/2xe8  
+
+# Демо: додавање забелешке и измена OSM
+  
+Креираћемо забелешку и решити је изменом OSM базе.  
+  
+Продавница је затворена:  
+https://www.openstreetmap.org/node/13592011429  
+
+# Демо: додавање планинарске стазе
+  
+https://pss.rs/terenipp/narcisu-u-pohode/  
+  
+https://vanjakom.github.io/osm-pss-integration/dataset/osm-state.html  
 
