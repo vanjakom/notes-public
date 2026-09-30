@@ -1,8 +1,8 @@
 # OSM
   
 OSM је база података.  
-
-https://openstreetmap.org је само сервис за преглед мапе.
+  
+https://openstreetmap.org је само сервис за преглед мапе.  
 
 # OSM екосистем
   
@@ -14,44 +14,64 @@ https://openstreetmap.org је само сервис за преглед мап�
 https://wiki.openstreetmap.org/wiki/API_v0.6  
   
 Едитори могу бити опште намене или тематски - усмерени ка групи података.  
+  
+Општи:  
 https://ideditor.com (Edit на https://openstreetmap.org)  
+  
 https://josm.openstreetmap.de  
+  
 https://level0.osmz.ru  
   
+Анализа и измена података ПСС у OСМ:  
 https://github.com/vanjakom/osm-pss-integration  
   
+Едитори за мобилне уређаје:  
 https://vespucci.io  
+  
 https://github.com/bryceco/GoMap  
+  
 https://streetcomplete.app/  
+  
 https://every-door.app/  
   
 Преглед и коришћење података:  
 https://github.com/openstreetmap-carto/openstreetmap-carto  
+  
 https://overpass-turbo.eu  
+  
 https://hiking.waymarkedtrails.org  
+  
 https://opentopomap.org/  
+  
 https://garmin.opentopomap.org  
+  
 https://brouter.de  
   
 https://staze.pss.rs  
+  
 https://github.com/vanjakom/pss-map-v1/  
   
+Мобилне апликације:  
 https://www.alltrails.com  
+  
 https://www.locusmap.app  
+  
 https://osmand.net  
+  
 https://organicmaps.app  
+  
 https://maps.me  
 
 # tile
-
-https://tile.openstreetmap.org/0/0/0.png
-
-https://tile.openstreetmap.org/1/0/0.png
-https://tile.openstreetmap.org/1/1/0.png
-https://tile.openstreetmap.org/1/0/1.png
-https://tile.openstreetmap.org/1/1/1.png
-
-
+  
+https://tile.openstreetmap.org/0/0/0.png  
+  
+https://tile.openstreetmap.org/1/0/0.png  
+https://tile.openstreetmap.org/1/1/0.png  
+https://tile.openstreetmap.org/1/0/1.png  
+https://tile.openstreetmap.org/1/1/1.png  
+  
+https://tile.openstreetmap.org/12/2280/1476.png  
 
 # OSM data model
   
@@ -75,6 +95,8 @@ https://level0.osmz.ru/?url=n9909056459
 node 9909056459: 44.1277537, 20.0154494  
   amenity = drinking_water  
 ```  
+  
+https://wiki.openstreetmap.org/wiki/Tag:amenity%3Ddrinking_water  
 
 # OSM way
 Планинарски дом „На пољани”  
@@ -161,6 +183,9 @@ relation 14281022
   wy 936931660  
 ```  
 
+# OSM Notes
+
+
 # Демо: Map data и Query tool
   
 https://www.openstreetmap.org/#map=17/44.104113/19.990252  
@@ -185,7 +210,7 @@ https://vanjakom.github.io/osm-pss-integration/dataset/osm-state.html
 
 # ОСМ Заједница у Србији
   
-generalni wiki
+generalni wiki  
   
 https://wiki.openstreetmap.org/wiki/Serbia/Beleske/Dobrodosli  
   

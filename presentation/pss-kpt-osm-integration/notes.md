@@ -9,6 +9,10 @@ imam slajd sa fajlovima
 
 # README.md
 
+https://github.com/vanjakom/osm-pss-integration
+
+https://github.com/vanjakom/pss-map-v1/
+
 napraviti readme fajl koji objasnjava sta se gde nalazi
 
 dodati link na ovu prezentaciju

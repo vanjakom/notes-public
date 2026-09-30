@@ -1,15 +1,84 @@
 <html>
-  <head>
-    <meta charset="UTF-8" />
-    <style>
-      body {font-family: monospace; max-width: 900px; margin: 40px auto;padding: 0 20px;}
-.code-block {background: #f6f8fa; border: 1px solid #d0d7de;border-radius: 6px; padding: 16px; overflow-x: auto;}
+<head>
+<meta charset="UTF-8" />
+<style>
+body {font-family: monospace; max-width: 900px; margin: 40px auto; padding: 0 20px;}
+.code-block {background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; overflow-x: auto;}
+</style>
+</head>
+<body>
+<div class="note">
+<h1> OSM</h1>
+  <br>
+OSM је база података.  <br>
+  <br>
+<a href="https://openstreetmap.org">https://openstreetmap.org</a> је само сервис за преглед мапе.  <br>
+<br>
 
-    </style>
-  </head>
-  <body>
-    <div class="note">
-      <h1> tile</h1>
+</div>
+<div class="note">
+<h1> OSM екосистем</h1>
+  <br>
+Око OSM постоји екосистем алата и сервиса који читају и   <br>
+мењају базу.   <br>
+  <br>
+Измене (промена постојећих или додавање нових података) се уносе уз помоћ   <br>
+едитора преко интеpфејса за комуникацију са базом (API).  <br>
+<a href="https://wiki.openstreetmap.org/wiki/API_v0.6">https://wiki.openstreetmap.org/wiki/API_v0.6</a>  <br>
+  <br>
+Едитори могу бити опште намене или тематски - усмерени ка групи података.  <br>
+  <br>
+Општи:  <br>
+<a href="https://ideditor.com">https://ideditor.com</a> (Edit на <a href="https://openstreetmap.org)">https://openstreetmap.org)</a>  <br>
+  <br>
+<a href="https://josm.openstreetmap.de">https://josm.openstreetmap.de</a>  <br>
+  <br>
+<a href="https://level0.osmz.ru">https://level0.osmz.ru</a>  <br>
+  <br>
+Анализа и измена података ПСС у OСМ:  <br>
+<a href="https://github.com/vanjakom/osm-pss-integration">https://github.com/vanjakom/osm-pss-integration</a>  <br>
+  <br>
+Едитори за мобилне уређаје:  <br>
+<a href="https://vespucci.io">https://vespucci.io</a>  <br>
+  <br>
+<a href="https://github.com/bryceco/GoMap">https://github.com/bryceco/GoMap</a>  <br>
+  <br>
+<a href="https://streetcomplete.app/">https://streetcomplete.app/</a>  <br>
+  <br>
+<a href="https://every-door.app/">https://every-door.app/</a>  <br>
+  <br>
+Преглед и коришћење података:  <br>
+<a href="https://github.com/openstreetmap-carto/openstreetmap-carto">https://github.com/openstreetmap-carto/openstreetmap-carto</a>  <br>
+  <br>
+<a href="https://overpass-turbo.eu">https://overpass-turbo.eu</a>  <br>
+  <br>
+<a href="https://hiking.waymarkedtrails.org">https://hiking.waymarkedtrails.org</a>  <br>
+  <br>
+<a href="https://opentopomap.org/">https://opentopomap.org/</a>  <br>
+  <br>
+<a href="https://garmin.opentopomap.org">https://garmin.opentopomap.org</a>  <br>
+  <br>
+<a href="https://brouter.de">https://brouter.de</a>  <br>
+  <br>
+<a href="https://staze.pss.rs">https://staze.pss.rs</a>  <br>
+  <br>
+<a href="https://github.com/vanjakom/pss-map-v1/">https://github.com/vanjakom/pss-map-v1/</a>  <br>
+  <br>
+Мобилне апликације:  <br>
+<a href="https://www.alltrails.com">https://www.alltrails.com</a>  <br>
+  <br>
+<a href="https://www.locusmap.app">https://www.locusmap.app</a>  <br>
+  <br>
+<a href="https://osmand.net">https://osmand.net</a>  <br>
+  <br>
+<a href="https://organicmaps.app">https://organicmaps.app</a>  <br>
+  <br>
+<a href="https://maps.me">https://maps.me</a>  <br>
+<br>
+
+</div>
+<div class="note">
+<h1> tile</h1>
   <br>
 <a href="https://tile.openstreetmap.org/0/0/0.png">https://tile.openstreetmap.org/0/0/0.png</a>  <br>
   <br>
@@ -21,9 +90,9 @@
 <a href="https://tile.openstreetmap.org/12/2280/1476.png">https://tile.openstreetmap.org/12/2280/1476.png</a>  <br>
 <br>
 
-    </div>
-    <div class="note">
-      <h1> OSM data model</h1>
+</div>
+<div class="note">
+<h1> OSM data model</h1>
   <br>
 tags - map, list of key, value pairs. key must be unique.  <br>
   <br>
@@ -37,9 +106,9 @@ relation - mixed list of noderef, wayref, relationref, tags  <br>
 relationref - pointer to relation  <br>
 <br>
 
-    </div>
-    <div class="note">
-      <h1> OSM node</h1>
+</div>
+<div class="note">
+<h1> OSM node</h1>
 пијаћа вода  <br>
 <a href="https://www.openstreetmap.org/node/9909056459">https://www.openstreetmap.org/node/9909056459</a>  <br>
   <br>
@@ -47,11 +116,13 @@ relationref - pointer to relation  <br>
 <pre class="code-block">node 9909056459: 44.1277537, 20.0154494  
   amenity = drinking_water  
 </pre>
+  <br>
+<a href="https://wiki.openstreetmap.org/wiki/Tag:amenity%3Ddrinking_water">https://wiki.openstreetmap.org/wiki/Tag:amenity%3Ddrinking_water</a>  <br>
 <br>
 
-    </div>
-    <div class="note">
-      <h1> OSM way</h1>
+</div>
+<div class="note">
+<h1> OSM way</h1>
 Планинарски дом „На пољани”  <br>
 <a href="https://www.openstreetmap.org/way/690352197">https://www.openstreetmap.org/way/690352197</a>  <br>
   <br>
@@ -81,9 +152,9 @@ relationref - pointer to relation  <br>
 </pre>
 <br>
 
-    </div>
-    <div class="note">
-      <h1> OSM relation</h1>
+</div>
+<div class="note">
+<h1> OSM relation</h1>
 Дивчибаре центар - Планинарски дом „На Пољанама”  <br>
 <a href="https://www.openstreetmap.org/relation/14281022">https://www.openstreetmap.org/relation/14281022</a>  <br>
   <br>
@@ -138,24 +209,30 @@ relationref - pointer to relation  <br>
 </pre>
 <br>
 
-    </div>
-    <div class="note">
-      <h1> Демо: Map data и Query tool</h1>
+</div>
+<div class="note">
+<h1> OSM Notes</h1>
+<br>
+<br>
+
+</div>
+<div class="note">
+<h1> Демо: Map data и Query tool</h1>
   <br>
 <a href="https://www.openstreetmap.org/#map=17/44.104113/19.990252">https://www.openstreetmap.org/#map=17/44.104113/19.990252</a>  <br>
 <br>
 
-    </div>
-    <div class="note">
-      <h1> Демо: Overpass turbo</h1>
+</div>
+<div class="note">
+<h1> Демо: Overpass turbo</h1>
   <br>
 Пијаћа вода на Дивчибарама:  <br>
 <a href="https://overpass-turbo.eu/s/2xe8">https://overpass-turbo.eu/s/2xe8</a>  <br>
 <br>
 
-    </div>
-    <div class="note">
-      <h1> Демо: додавање забелешке и измена OSM</h1>
+</div>
+<div class="note">
+<h1> Демо: додавање забелешке и измена OSM</h1>
   <br>
 Креираћемо забелешку и решити је изменом OSM базе.  <br>
   <br>
@@ -163,18 +240,18 @@ relationref - pointer to relation  <br>
 <a href="https://www.openstreetmap.org/node/13592011429">https://www.openstreetmap.org/node/13592011429</a>  <br>
 <br>
 
-    </div>
-    <div class="note">
-      <h1> Демо: додавање планинарске стазе</h1>
+</div>
+<div class="note">
+<h1> Демо: додавање планинарске стазе</h1>
   <br>
 <a href="https://pss.rs/terenipp/narcisu-u-pohode/">https://pss.rs/terenipp/narcisu-u-pohode/</a>  <br>
   <br>
 <a href="https://vanjakom.github.io/osm-pss-integration/dataset/osm-state.html">https://vanjakom.github.io/osm-pss-integration/dataset/osm-state.html</a>  <br>
 <br>
 
-    </div>
-    <div class="note">
-      <h1> OSM Заједница у Србији</h1>
+</div>
+<div class="note">
+<h1> ОСМ Заједница у Србији</h1>
   <br>
 generalni wiki  <br>
   <br>
@@ -183,9 +260,9 @@ generalni wiki  <br>
 <a href="https://wiki.openstreetmap.org/wiki/Serbia/Projekti">https://wiki.openstreetmap.org/wiki/Serbia/Projekti</a>  <br>
 <br>
 
-    </div>
-    <div class="note">
-      <h1> Пројекти од интереса за Планинаре</h1>
+</div>
+<div class="note">
+<h1> Пројекти од интереса за Планинаре</h1>
   <br>
 <a href="https://wiki.openstreetmap.org/wiki/Serbia/PD_Kablar_staze">https://wiki.openstreetmap.org/wiki/Serbia/PD_Kablar_staze</a>  <br>
 <a href="https://wiki.openstreetmap.org/wiki/Serbia/Projekti/NP_Tara_staze">https://wiki.openstreetmap.org/wiki/Serbia/Projekti/NP_Tara_staze</a>  <br>
@@ -205,6 +282,6 @@ generalni wiki  <br>
 <a href="https://wiki.openstreetmap.org/wiki/Serbia/Beleske/Planinari_i_OSM">https://wiki.openstreetmap.org/wiki/Serbia/Beleske/Planinari_i_OSM</a>  <br>
 <br>
 
-    </div>
-  </body>
+</div>
+</body>
 </html>
