@@ -222,7 +222,7 @@ https://forum.openstreetmap.org/viewforum.php?id=62
 Телеграм канал заједнице:  
 https://t.me/osm_sr  
 
-# Пројекти од интереса за Планинаре
+# Пројекти од интереса за планинаре
   
 https://wiki.openstreetmap.org/wiki/Serbia/PD_Kablar_staze  
 https://wiki.openstreetmap.org/wiki/Serbia/Projekti/NP_Tara_staze  
