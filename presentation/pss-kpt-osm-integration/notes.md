@@ -1,4 +1,6 @@
 
+https://vanjakom.github.io/notes-public/presentation/pss-kpt-osm-integration/notes.md
+
 # Додавање стазе
 
 # overview

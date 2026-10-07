@@ -6,6 +6,8 @@ https://fosdem.org/2026/schedule/track/embedded-mobile-and-automotive/
 https://fosdem.org/2026/schedule/track/building-europes-public-digital-infrastructure/  
 https://fosdem.org/2026/schedule/track/browser-and-web-platform/  
 https://fosdem.org/2026/schedule/track/dev-random/  
+https://lpc.events
+
 DONE https://developer.apple.com/videos/wwdc2026/  
 DONE https://fosdem.org/2026/schedule/track/decentralised-communication/  
 DONE https://fosdem.org/2026/schedule/track/open-research/  
@@ -15,36 +17,6 @@ DONE https://fosdem.org/2026/schedule/track/ai/
 DONE https://fosdem.org/2026/schedule/track/geospatial/  
 DONE https://fosdem.org/2026/schedule/track/python/  
 DONE state of the map 2025 20260309 https://www.youtube.com/@StateoftheMapEurope/  
-
-# #watch #wwdc2026 What’s new in Swift
-https://developer.apple.com/videos/play/wwdc2026/262/
-
-# #watch #wwdc2026 What’s new in SwiftUI
-https://developer.apple.com/videos/play/wwdc2026/269/
-
-# #watch #wwdc2026 SwiftUI for Beginners Group Lab
-https://developer.apple.com/videos/play/wwdc2026/8002/
-
-# #watch #wwdc2026 SwiftUI Group Lab
-https://developer.apple.com/videos/play/wwdc2026/8006/
-
-# #watch #fosdem2026 Engineering XMPP Federation: Building Messaging, Voice & Social Features Across Independent Projects
-https://fosdem.org/2026/schedule/event/7XJL9E-engineering_xmpp_federation_building_messaging_voice_social_features_across_inde/
-
-# #watch #fosdem2026 Movim: Building a Decentralized Social Network on XMPP
-https://fosdem.org/2026/schedule/event/EVSXLA-movim-building-decentralized-social-network-xmpp/
-
-# #watch #fosdem2026 What are you listening to now?: Implementing "Now Playing" feature in modern XMPP
-https://fosdem.org/2026/schedule/event/8EDWJT-now-playing-revisited/
-
-# #watch #fosdem2026 Bonfire: Modular Communication Tools on the Open Social Web
-https://fosdem.org/2026/schedule/event/LSUYXG-bonfire_modular_communication_tools_on_the_open_social_web/
-
-# #watch #fosdem2026 DASL Your Protocols!
-https://fosdem.org/2026/schedule/event/W8CJXD-dasl/
-
-# #watch #fosdem2026 Reverse Google: From email to decentralization
-https://fosdem.org/2026/schedule/event/3WHULW-reverse_google_from_email_to_decentralization/
 
 # #watch #fosdem2026 AT: The Billion-Edge Open Social Graph
 https://fosdem.org/2026/schedule/event/ZT7TB9-at-the-billion-edge-social-graph/
