@@ -1,0 +1,48 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <style>
+      html, body {margin:0;padding:0;width:100%;height:100%;overflow:hidden;}
+.slide {width:100vw;height:100vh;display:none;}
+.slide.active {display:block;}
+.slide img {width:100%;height:100%;object-fit:contain;display:block;}
+
+    </style>
+  </head>
+  <body>
+    <div class="slide active">
+      <img src="slide-01.png" />
+    </div>
+    <div class="slide">
+      <img src="slide-02.png" />
+    </div>
+    <script>
+      var current = 0;
+var slides = Array.prototype.slice.call(document.getElementsByClassName('slide'));
+function show(index) {
+  if (isNaN(index)) { index = 0; }
+  current = Math.max(0, Math.min(slides.length - 1, index));
+  slides.forEach(function(slide, i) {
+    slide.classList.toggle('active', i === current);
+  });
+  location.hash = String(current + 1);
+}
+document.body.addEventListener('click', function(event) {
+  var step = Math.sign(event.clientX - window.innerWidth / 2) || 1;
+  show(current + step);
+});
+var keyStep = {ArrowRight: 1, ArrowLeft: -1};
+document.addEventListener('keydown', function(event) {
+  var step = keyStep[event.key];
+  if (step) {
+    show(current + step);
+  }
+});
+window.addEventListener('hashchange', function() {
+  show(parseInt(location.hash.slice(1), 10) - 1);
+});
+show(parseInt(location.hash.slice(1), 10) - 1);
+
+    </script>
+  </body>
+</html>
