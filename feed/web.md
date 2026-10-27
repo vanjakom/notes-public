@@ -1,5 +1,12 @@
 [notemd]
 
+# Stamplore - Stamp your passport at every stop. (Belgium)
+https://stamplore.com/en/
+
+# Urban Sketchers
+https://urbansketchers.org
+https://www.instagram.com/urbansketchers
+
 # Datashader
 Datashader is a graphics pipeline system for creating meaningful representations
 of large datasets quickly and flexibly.

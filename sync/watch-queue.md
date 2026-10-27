@@ -1,6 +1,9 @@
 
 # #todo process
-https://peertube.openstreetmap.fr/c/sotm_2026/videos  
+dodajem polako snimke sa sotm2026
+https://peertube.openstreetmap.fr/c/sotm_2026/videos?sort=-originallyPublishedAt
+
+
 fosdem 2026, geospatial i ostali trackovi  
 https://fosdem.org/2026/schedule/track/embedded-mobile-and-automotive/  
 https://fosdem.org/2026/schedule/track/building-europes-public-digital-infrastructure/  
@@ -18,37 +21,77 @@ DONE https://fosdem.org/2026/schedule/track/geospatial/
 DONE https://fosdem.org/2026/schedule/track/python/  
 DONE state of the map 2025 20260309 https://www.youtube.com/@StateoftheMapEurope/  
 
-# #watch #fosdem2026 AT: The Billion-Edge Open Social Graph
-https://fosdem.org/2026/schedule/event/ZT7TB9-at-the-billion-edge-social-graph/
+# #watch #sotm2026 SotM 2026 - Interview 23
+https://peertube.openstreetmap.fr/w/8qPn7pbdoNEFrggmWed5aV
 
-# #watch #fosdem2026 We d-build it, but they didn't come
-https://fosdem.org/2026/schedule/event/TXKLRJ-we_d-build_it_but_they_didnt_come/
+# #watch #sotm2026 SotM 2026 - Interview 22
+https://peertube.openstreetmap.fr/w/22thgQxugXcNWEazQSUP3X
 
-# #watch #fosdem2026 Draupnir: a field report on building community focussed T&S tooling within an open federation
-https://fosdem.org/2026/schedule/event/SHYBQ7-draupnir_a_field_report_on_building_community_focussed_t_s_tooling_within_an_ope/
+# #watch #sotm2026 SotM 2026 - Interview 21
+https://peertube.openstreetmap.fr/w/j48kKi8Ssj6SYCZ7etKFpo
 
+# #watch #sotm2026 SotM 2026 - Interview 20
+https://peertube.openstreetmap.fr/w/o6AeYzBEZCrUeLNiZeTXgJ
 
-# #watch #fosdem2026 Building performance-critical Python tools with Rust: Lessons from production
-https://fosdem.org/2026/schedule/event/RCFALN-rust-building-performance-critical-python-apps/
+# #watch #sotm2026 SotM 2026 - Interview 19
+https://peertube.openstreetmap.fr/w/w7Qo2BV7RuK4nk7N1tvZgv
 
-# #watch #fosdem2026 Clickhouse’s C++ and Rust journey
-https://fosdem.org/2026/schedule/event/NBLNRY-rust-clickhouse/
+# #watch #sotm2026 SotM 2026 - Interview 18
+https://peertube.openstreetmap.fr/w/rvUMJ6SKCoNL6ohdZvuCg4
 
+# #watch #sotm2026 SotM 2026 - Interview 17
+https://peertube.openstreetmap.fr/w/k8MeMt1oEjmcSKi5aqoX2J
 
-# #watch #fosdem2026 Common Expression Language (CEL) in Rust
-https://fosdem.org/2026/schedule/event/DBGZAU-rust-cel/
+# #watch #sotm2026 SotM 2026 - Interview 16
+https://peertube.openstreetmap.fr/w/tR3ANSmXGG9LJUJf9wxm1k
 
-# #watch #fosdem2026 Async Rust in Godot 4: Leveraging the engine as a runtime
-https://fosdem.org/2026/schedule/event/ED3EWJ-rust-godot4-async/
+# #watch #sotm2026 SotM 2026 - Interview 15
+https://peertube.openstreetmap.fr/w/eRuK6GAkTvuQQe6WmZF66S
 
-# #watch #fosdem2026 RustBoy: A Rust journey into Game Boy dev
-https://fosdem.org/2026/schedule/event/W3UFSK-rust-game-boy/
+# #watch #sotm2026 SotM 2026 - Interview 14
+https://peertube.openstreetmap.fr/w/iXERYeS4YmBqSkCG13Qcvz
 
-# #watch #fosdem2026 Rust meets cheap bare-metal RISC-V
-https://fosdem.org/2026/schedule/event/JCZA8P-rust-meets-cheap-bare-metal-risc-v/
+# #watch #sotm2026 SotM 2026 - Interview 13
+https://peertube.openstreetmap.fr/w/7FVURUFxcdWwoux2SLsNoD
 
-# #watch #fosdem2026 Bringing WebAssembly to constrained devices with Rust: Runtimes, tooling, and real-world tradeoffs
-https://fosdem.org/2026/schedule/event/8TDKRT-rust-wasm-embedded/
+# #watch #sotm2026 SotM 2026 - Interview 12
+https://peertube.openstreetmap.fr/w/jxDnYjG2JVeZwjEWgpuCeq
+
+# #watch #sotm2026 SotM 2026 - Interview 11
+https://peertube.openstreetmap.fr/w/qA7wjZ6p9cP5fyucm7m23t
+
+# #watch #sotm2026 SotM 2026 - Interview 10
+https://peertube.openstreetmap.fr/w/ascHgJpmHnF2ywby755tSE
+
+# #watch #sotm2026 SotM 2026 - Interview 09
+https://peertube.openstreetmap.fr/w/rDRxc9oxmqnbdJcwCQKiY1
+
+# #watch #sotm2026 SotM 2026 - Interview 08
+https://peertube.openstreetmap.fr/w/npyhHjPpP6Cf38Ej85G8hS
+
+# #watch #sotm2026 SotM 2026 - Interview 07
+https://peertube.openstreetmap.fr/w/5PWs2abYCFwpo2xBwXF4Gz
+
+# #watch #sotm2026 SotM 2026 - Interview 06
+https://peertube.openstreetmap.fr/w/8bDyebm3mP3QgY2hv7hBFA
+
+# #watch #sotm2026 SotM 2026 - Interview 05
+https://peertube.openstreetmap.fr/w/bSgdwuHVC7QK5ZE2ciQiq8
+
+# #watch #sotm2026 SotM 2026 - Interview 04
+https://peertube.openstreetmap.fr/w/dE29MddPHBfgaPpoenm82L
+
+# #watch #sotm2026 SotM 2026 - Interview 03
+https://peertube.openstreetmap.fr/w/8NcoHbAco3uENjs32C1TEk
+
+# #watch #sotm2026 SotM 2026 - Interview 02
+https://peertube.openstreetmap.fr/w/bV4uHqYY7WVRGVJ3g61S8q
+
+# #watch #sotm2026 SotM 2026 - Interview 01
+https://peertube.openstreetmap.fr/w/civGH7B1zstSs34Rtq1kM2
+
+# #watch #sotm2026 Random interviews SotM 2026
+https://peertube.openstreetmap.fr/w/fAx8gKEEVcFYpeLUFsTpnf
 
 # queue for later:
 
