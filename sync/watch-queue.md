@@ -2,7 +2,7 @@
 # #todo process
 dodajem polako snimke sa sotm2026
 https://peertube.openstreetmap.fr/c/sotm_2026/videos?sort=-originallyPublishedAt
-
+dodao sve intervjue
 
 fosdem 2026, geospatial i ostali trackovi  
 https://fosdem.org/2026/schedule/track/embedded-mobile-and-automotive/  
