@@ -1,5 +1,10 @@
 [notemd]
 
+# Došao u Srbiju na studije, a onda pronašao novi poziv u krojačkom zanatu
+https://www.rts.rs/lat/magazin/zivot/6085075/dosao-u-srbiju-na-studije-a-onda-pronasao-novi-poziv-u-krojackom-zanatu.html
+https://www.instagram.com/devnoel12/?hl=en
+#grenada
+
 # Stamplore - Stamp your passport at every stop. (Belgium)
 https://stamplore.com/en/
 
